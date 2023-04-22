@@ -1,6 +1,7 @@
 # `eslint-plugin-react` <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
 ===================
+.
 
 [![github actions][actions-image]][actions-url]
 [![Maintenance Status][status-image]][status-url]
